@@ -1,0 +1,318 @@
+.firstBar{
+    display: flex;
+    position: fixed;
+    background: #ffffff;
+	height: 64px;
+    width: 100%;
+    top: 0;
+    left: 0;
+
+}
+
+.SecondBar{
+    display: flex;
+    position: fixed;
+    background: #ffffff;
+	height: 62px;
+    width: 100%;
+    top: 60px;
+    left: 0;
+    border: 1px solid rgb(210, 210, 210);
+}
+
+.image{
+    display: flex;
+    position: fixed;
+    height: 9%;
+    width: 8%;
+    top: 0;
+    left: 0;
+}
+
+.searchImg{
+    display: flex;
+    position: fixed;
+    height: 20px;
+    width: 20px;
+    left: 135px;
+    top: 25px;
+}
+
+.search{
+    font-family:Verdana;
+    display: flex;
+    position: fixed;
+    font-size: small;
+    left: 165px;
+    top: 27px;
+    color: rgb(111, 111, 111);
+}
+
+.categories{
+    display: flex;
+    position: fixed;
+    color: black;
+    font-size: small;
+    font-family:Verdana;
+    left: 450px;
+    top: 27px;
+}
+
+.one{
+    height: 13px;
+    width: 13px;
+    display: flex;
+    position: fixed;
+    left: 555px;
+    top: 29px;
+}
+
+.support{
+    display: flex;
+    position: fixed;
+}
+
+.support img{
+    height: 20px;
+    width: 20px;
+    display: flex;
+    justify-content: flex-end;
+    position: fixed;
+    top: 25px;
+    right: 500px;
+}
+
+.support h2{
+    font-family: Verdana;
+    display: flex;
+    justify-content: flex-end;
+    position: fixed;
+    top: 17px;
+    right: 435px;
+    font-size: small;
+}
+
+.wishList{
+    display: flex;
+    position: fixed;
+}
+
+.wishList img{
+    height: 20px;
+    width: 20px;
+    display: flex;
+    justify-content: flex-end;
+    position: fixed;
+    top: 25px;
+    right: 385px;
+}
+
+.wishList h2{
+    font-family: Verdana;
+    display: flex;
+    justify-content: flex-end;
+    position: fixed;
+    top: 17px;
+    right: 310px;
+    font-size: small;
+}
+
+.cart{
+    display: flex;
+    position: fixed;
+}
+
+.cart img{
+    height: 20px;
+    width: 20px;
+    display: flex;
+    justify-content: flex-end;
+    position: fixed;
+    top: 25px;
+    right: 260px;
+}
+
+.cart h2{
+    font-family: Verdana;
+    display: flex;
+    justify-content: flex-end;
+    position: fixed;
+    top: 17px;
+    right: 220px;
+    font-size: small;}
+
+.profile{
+    display: flex;
+    position: fixed;
+}
+
+.profile img{
+    height: 20px;
+    width: 20px;
+    display: flex;
+    justify-content: flex-end;
+    position: fixed;
+    top: 25px;
+    right: 175px;
+}
+
+.profile h2{
+    font-family: Verdana;
+    display: flex;
+    justify-content: flex-end;
+    position: fixed;
+    top: 17px;
+    right: 50px;
+    font-size: small;
+}
+
+.store{
+    display: flex;
+    position: fixed;
+}
+
+.store img{
+    display: flex;
+    position: fixed;
+    height: 20px;
+    width: 20px;
+    left: 320px;
+    top: 80px;
+}
+
+.store h2{
+    font-family: Verdana;
+    display: flex;
+    position: fixed;
+    top: 72px;
+    left: 348px;
+    font-size: small;
+}
+
+.store .two{
+    height: 13px;
+    width: 13px;
+    display: flex;
+    position: fixed;
+    left: 492px;
+    top: 85px;
+}
+
+.games{
+    display: flex;
+    position: fixed;
+}
+
+.games img{
+    display: flex;
+    position: fixed;
+    height: 20px;
+    width: 20px;
+    left: 540px;
+    top: 80px;
+}
+
+.games h2{
+    font-family: Verdana;
+    display: flex;
+    position: fixed;
+    top: 72px;
+    left: 570px;
+    font-size: small;
+}
+
+.games .three{
+    height: 13px;
+    width: 13px;
+    display: flex;
+    position: fixed;
+    left: 629px;
+    top: 85px;
+}
+
+.switch{
+    display: flex;
+    position: fixed;
+}
+
+.switch img{
+    display: flex;
+    position: fixed;
+    height: 20px;
+    width: 20px;
+    left: 670px;
+    top: 80px;
+}
+
+.switch h2{
+    font-family: Verdana;
+    display: flex;
+    position: fixed;
+    top: 72px;
+    left: 700px;
+    font-size: small;
+}
+
+.switch .four{
+    height: 13px;
+    width: 13px;
+    display: flex;
+    position: fixed;
+    left: 830px;
+    top: 85px;
+}
+
+.news{
+    display: flex;
+    position: fixed;
+}
+
+.news img{
+    display: flex;
+    position: fixed;
+    height: 20px;
+    width: 20px;
+    left: 875px;
+    top: 80px;
+}
+
+.news h2{
+    font-family: Verdana;
+    display: flex;
+    position: fixed;
+    top: 72px;
+    left: 905px;
+    font-size: small;
+}
+
+.nintendo{
+    display: flex;
+    position: fixed;
+}
+
+.nintendo img{
+    display: flex;
+    position: fixed;
+    height: 20px;
+    width: 20px;
+    right: 460px;
+    top: 80px;
+}
+
+.nintendo h2{
+    font-family: Verdana;
+    display: flex;
+    position: fixed;
+    top: 72px;
+    right: 350px;
+    font-size: small;
+}
+
+.nintendo .five {
+    height: 13px;
+    width: 13px;
+    display: flex;
+    position: fixed;
+    right: 325px;
+    top: 85px;
+}

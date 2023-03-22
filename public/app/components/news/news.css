@@ -1,0 +1,37 @@
+.title{
+    font-family: Verdana;
+    color: rgb(89, 89, 89);
+    margin-left: 180px;
+}
+
+.card{
+    margin-top: 20px;
+    font-family: Verdana;
+    display: flex;
+    flex-direction: column;
+    float: left;
+    margin-left: 130px;
+    width: 36%;
+    
+}
+
+.card img{
+    border-radius: 5px;
+    background-size: cover;
+}
+
+.card p{
+    font-size: medium;
+    color: rgb(106, 106, 106);
+}
+
+.card h2{
+    font-size: large;
+    color: rgb(89, 89, 89);
+}
+
+.card a{
+    font-size: Verdana;
+    color: rgb(233, 0, 0);
+    font-weight: bold;
+}

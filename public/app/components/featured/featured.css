@@ -1,0 +1,39 @@
+.main{
+    margin-top: 80px;
+}
+
+.main h1{
+    font-family: Verdana;
+    margin-left: 180px;
+    color: rgb(76, 76, 76);
+}
+
+.main img{
+    height: 76%;
+    width: 76%;
+    display: block;
+    margin: auto;
+}
+
+.main h2{
+    font-family: Verdana;
+    margin-left: 180px;
+    color: rgb(76, 76, 76);
+    font-size: large;
+    float: left;
+    margin-top: 40px;
+}
+
+.main button{
+    background-color: rgb(233, 0, 0);
+    font-family: Verdana;
+    font-weight: bold;
+    font-size: medium;
+    color: white;
+    height: 50px;
+    width: 130px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 30px;
+    margin-top: 30px;
+}

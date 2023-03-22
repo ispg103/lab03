@@ -1,0 +1,12 @@
+export { default as Header } from "./header/header.js";
+export { default as Banner } from "./banner/banner.js";
+export { default as Featured } from "./featured/featured.js";
+export { default as CardsFeatured } from "./cardsFeatured/cardsFeatured.js";
+export { default as Store } from "./store/store.js";
+export { default as Systems } from "./systems/systems.js";
+export { default as News } from "./news/news.js";
+export { default as SectionTwo } from "./cardsNews/cardsNews.js";
+export { default as Characters } from "./characters/characters.js";
+export { default as Sellers } from "./sellers/sellers.js";
+export { default as Releases } from "./releases/releases.js";
+export { default as Footer } from "./footer/footer.js";

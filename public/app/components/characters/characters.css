@@ -1,0 +1,30 @@
+.title{
+    font-family: Verdana;
+    margin-left: 180px;
+    color: rgb(76, 76, 76);
+}
+
+.first{
+    display: flex;
+    flex-direction: column;
+    font-family: Verdana;
+    float: left;
+    margin-left: 85px;
+    margin-bottom: 100px;
+    margin-top: 25px;
+    width: 270px;
+    height: 290px;
+}
+
+.first h2{
+    font-family: Verdana;
+    color: rgb(76, 76, 76);
+    font-size: large;
+    width: 63%;
+    float: left;
+}
+
+.first img{
+    border-radius: 5px;
+
+}

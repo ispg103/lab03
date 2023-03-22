@@ -1,0 +1,63 @@
+h1{
+    font-family: Verdana;
+    margin-left: 180px;
+    color: rgb(76, 76, 76);
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid rgb(173, 173, 173);
+    border-radius: 5px;
+    font-family: Verdana;
+    float: left;
+    margin-left: 85px;
+    margin-top: 40px;
+    width: 270px;
+    height: 410px;
+    margin-bottom: 110px;
+}
+
+.card img{
+	border-radius: 5px 5px 0px 0px;
+    background-size: cover;
+}
+
+.card h3{
+    font-size: medium;
+    color: rgb(89, 89, 89);
+    margin-left: 10px;
+    width: 90%;
+}
+
+.card .box{
+    height: fit-content;
+    width: fit-content;
+    background-color: rgb(233, 0, 0);
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: small;
+}
+
+.card p{
+    font-size: smaller;
+    color: rgb(128, 128, 128);
+    margin-top: 0;
+    margin-left: 10px;
+}
+
+.card .last{
+    margin-top: 50px;
+}
+
+.card .line{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card .heart{
+    width: 22px;
+    height: 20px;
+    margin-left: 100px;
+}

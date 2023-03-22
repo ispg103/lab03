@@ -1,0 +1,31 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    border: 1px solid rgb(173, 173, 173);
+    border-radius: 5px;
+    font-family: Verdana;
+    float: left;
+    margin-top: 60px;
+    margin-left: 85px;
+    width: 270px;
+    height: 300px;
+}
+
+.card img{
+	border-radius: 5px 5px 0px 0px;
+    background-size: cover;
+}
+
+.card h2{
+    font-size: medium;
+    color: rgb(89, 89, 89);
+    padding: 10px;
+    margin-top: 0;
+}
+
+.card p{
+    font-size: small;
+    color: rgb(128, 128, 128);
+    padding: 15px;
+}

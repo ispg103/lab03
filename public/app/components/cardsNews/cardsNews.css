@@ -1,0 +1,36 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    font-family: Verdana;
+    float: left;
+    justify-content: space-between;
+    margin-top: 80px;
+    margin-left: 85px;
+    margin-bottom: 100px;
+    width: 270px;
+    height: 290px;
+}
+
+.card img{
+	border-radius: 5px;
+    background-size: cover;
+}
+
+.card h2{
+    font-size: small;
+    color: rgb(89, 89, 89);
+    margin-top: 10px;
+}
+
+.card p{
+    font-size: small;
+    color: rgb(128, 128, 128);
+    margin-top: 25px;
+}
+
+.card a{
+    font-size: Verdana;
+    color: rgb(233, 0, 0);
+    font-weight: bold;
+    margin-top: 15px;
+}
